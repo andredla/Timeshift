@@ -3,7 +3,7 @@
 :. Sublime 3 plugin
 
 Keep track of differences between your file<br/>
-Uses command diff of Linux
+Nedded command diff of Linux
 
 How it works:
 - First you click on Keep track
