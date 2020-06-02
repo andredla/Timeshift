@@ -9,7 +9,7 @@ How it works:
 - First you click on Keep track
 - Then you work on your document
 - Then you compare your document
-- You can restore your document if you want to the older version
+- You can restore your document if you want the older version
 - Dont track will clear all tracks
 
 
