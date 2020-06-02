@@ -2,6 +2,7 @@
 
 :. Sublime 3 plugin
 
+Under development !
 Keep track of differences between your file
 
 How it works:
