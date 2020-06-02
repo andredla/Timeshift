@@ -2,8 +2,8 @@
 
 :. Sublime 3 plugin
 
-Under development !
 Keep track of differences between your file
+Uses command diff of Linux
 
 How it works:
 - First you click on Keep track
