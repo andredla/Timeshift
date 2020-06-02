@@ -1,0 +1,41 @@
+[
+    {
+        "id": "view",
+        "children": [
+            {
+                "caption": "-",
+                "id": "timeshift"
+            },
+            {
+                "caption": "Timeshift",
+                "children": [
+                    {
+                        "caption": "Keep track",
+                        "command": "timeshifttrack"
+                    },
+                    {
+                        "caption": "-"
+                    },
+                    {
+                        "caption": "Dont track",
+                        "command": "timeshiftdonttrack"
+                    },
+                    {
+                        "caption": "-"
+                    },
+                    {
+                        "caption": "Compare",
+                        "command": "timeshiftcompare"
+                    },
+                    {
+                        "caption": "-"
+                    },
+                    {
+                        "caption": "Restore",
+                        "command": "timeshiftrestore"
+                    }
+                ]
+            }
+        ]
+    }
+]
